@@ -4,7 +4,7 @@ export default {
   footer: (
     <small style={{ display: 'block', marginTop: '8rem' }}>
       <time>{YEAR}</time> © Namit Dasappanavar.
-        This website was made using Next.js.
+        This website was made using Next JS.
       <style jsx>{`
         a {
           float: right;
